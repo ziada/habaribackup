@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Habari Backup</name>
+	<license url="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU General Public License version 2.0</license>
+	<author url="http://skippy.net/">Scott Merrill</author>
+	<version>1.6</version>
+	<url>http://ziadaproject.org/</url>
+	<description><![CDATA[Generates a backup of your Habari blog and emails it to you.]]></description>
+	<guid>0c032beb-8185-4afc-9968-33a8fe6f7577</guid>
+	<copyright>2010</copyright>
+</pluggable>
